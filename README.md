@@ -18,7 +18,7 @@ This repository contains the source code of the experiments that we performed fo
  The following directories contains the source code of all the approaches that were part of our experiments. 
 
 
- - [language-models](/anguage-models/): contains the notebooks with the source code of our experiments with statistical and neural language models.
+ - [language-models](/language-models/): contains the notebooks with the source code of our experiments with statistical and neural language models.
  
  - [association-rules](/association-rules/): contains the notebooks with the source code of our experiments with frequent itemset and association rule mining.
  
