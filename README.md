@@ -8,7 +8,6 @@ This repository contains the source code of the experiments that we performed fo
 
 * Recommendations of **similar test cases** that already exist in the test suite through a similarity detection technique that we proposed in a [prior work](http://asgaard.ece.ualberta.ca/papers/preprint/markos_preprint_test_similarity.pdf)
 
-</br>
 
 ---
 
