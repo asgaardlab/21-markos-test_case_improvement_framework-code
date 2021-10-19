@@ -2,11 +2,11 @@
 
 This repository contains the source code of the experiments that we performed for our automated framework to improve the descriptions of new manual test cases. Currently, the framework automatically analyzes test cases written in natural language and provides three improvement recommendations:
 
-* Recommendations to improve the terminology of a new test case description based on existing test case descriptions through language modeling
+* Recommendations to **improve the terminology** of a new test case description based on existing test case descriptions through language modeling
 
-* Recommendations of potentially missing test steps for a new test case through frequent itemset and association rule mining
+* Recommendations of **potentially missing test steps** for a new test case through frequent itemset and association rule mining
 
-* Recommendations of similar test cases that already exist in the test suite through a similarity detection technique that we proposed in a [prior work](http://asgaard.ece.ualberta.ca/papers/preprint/markos_preprint_test_similarity.pdf)
+* Recommendations of **similar test cases** that already exist in the test suite through a similarity detection technique that we proposed in a [prior work](http://asgaard.ece.ualberta.ca/papers/preprint/markos_preprint_test_similarity.pdf)
 
 </br>
 
