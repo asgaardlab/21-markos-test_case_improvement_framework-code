@@ -48,27 +48,35 @@ The following dependencies are required to run the notebooks on your local machi
     pip install pandas
     `
 
-  
- - [matplotlib 3.0.3](https://matplotlib.org/)
+
+ - [Matplotlib 3.0.3](https://matplotlib.org/)
 
     `
     pip install matplotlib
     `
-    
- 
- - [scikit-learn 0.21.1](https://scikit-learn.org/stable/)
+
+
+ - [Plotly 4.14.3](https://plotly.com/)
+
+    `
+    pip install plotly
+    `
+
+
+ - [Scikit-learn 0.21.1](https://scikit-learn.org/stable/)
 
     `
     pip install scikit-learn
     `
-    
+
 
  - [NLTK 3.4.1](https://www.nltk.org/)
 
     `
     pip install nltk
     `
-    
+
+
  - [Spacy 3.0.1](https://spacy.io/usage)
 
     `
@@ -82,28 +90,31 @@ The following dependencies are required to run the notebooks on your local machi
     `
     python -m spacy download en_core_web_sm
     `
-    
+
+
  - [Transformers 4.3.2](https://huggingface.co/transformers/)
 
     `
     pip install transformers
-    `   
-    
+    `
+
+
  - [Torch 1.7.1+cpu](https://pytorch.org/)
 
     `
     pip install torch
-    `    
-    
+    `
+
+
  - [TensorFlow 2.4.1](https://www.tensorflow.org/)
 
     `
     pip install tensorflow
-    `  
-    
+    `
+
+
  - [TensorFlow_Hub 0.11.0](https://www.tensorflow.org/hub)
 
     `
     pip install tensorflow-hub
     `  
-    
