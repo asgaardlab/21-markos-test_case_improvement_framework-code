@@ -23,7 +23,7 @@ This repository contains the source code of the experiments that we performed fo
  - [association-rules](/association-rules/): contains the notebooks with the source code of our experiments with frequent itemset and association rule mining.
  
  
- The notebooks with the source code of our experiments with different test case similarity techniques can be found in the [epository of our previous work](https://github.com/asgaardlab/test-case-similarity-technique)
+ The notebooks with the source code of our experiments with different test case similarity techniques can be found in the [repository of our previous work](https://github.com/asgaardlab/test-case-similarity-technique)
 
 
 ---
