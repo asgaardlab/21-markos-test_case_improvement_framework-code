@@ -104,17 +104,3 @@ The following dependencies are required to run the notebooks on your local machi
     `
     pip install torch
     `
-
-
- - [TensorFlow 2.4.1](https://www.tensorflow.org/)
-
-    `
-    pip install tensorflow
-    `
-
-
- - [TensorFlow_Hub 0.11.0](https://www.tensorflow.org/hub)
-
-    `
-    pip install tensorflow-hub
-    `  
