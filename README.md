@@ -1,6 +1,6 @@
 ## Using Natural Language Processing Techniques to Improve Manual Test Case Descriptions
 
-This repository contains the source code of the experiments that we performed for our automated framework to improve the descriptions of new manual test cases. This work was published at the 44th International Conference on Software Engineering (ICSE) - Industry track (2022). In you can find the paper [here](https://markosviggiato.github.io/resources/Markos_ICSE_SEIP_2022.pdf) 
+This repository contains the source code of the experiments that we performed for our automated framework to improve the descriptions of new manual test cases. This work was published at the 44th International Conference on Software Engineering (ICSE) - Industry track (2022). In you can find the paper [here](https://markosviggiato.github.io/resources/Markos_ICSE_SEIP_2022.pdf).
 
 Currently, the framework automatically analyzes test cases written in natural language and provides three improvement recommendations:
 
@@ -8,7 +8,7 @@ Currently, the framework automatically analyzes test cases written in natural la
 
 * Recommendations of **potentially missing test steps** for a new test case through frequent itemset and association rule mining
 
-* Recommendations of **similar test cases** that already exist in the test suite through a similarity detection technique that we proposed in a [prior work](http://asgaard.ece.ualberta.ca/papers/preprint/markos_preprint_test_similarity.pdf)
+* Recommendations of **similar test cases** that already exist in the test suite through a similarity detection technique that we proposed in a [prior work](https://markosviggiato.github.io/resources/Markos_arxiv_submitted_2021.pdf)
 
 
 ---
@@ -24,7 +24,7 @@ Currently, the framework automatically analyzes test cases written in natural la
  - [association-rules](/association-rules/): contains the notebooks with the source code of our experiments with frequent itemset and association rule mining.
  
  
- The notebooks with the source code of our experiments with different test case similarity techniques can be found in the [repository of our previous work](https://markosviggiato.github.io/resources/Markos_arxiv_submitted_2021.pdf)
+ The notebooks with the source code of our experiments with different test case similarity techniques can be found in the [repository of our previous work](https://github.com/asgaardlab/21-markos-test_case_similarity_technique-code)
 
 
 ---
